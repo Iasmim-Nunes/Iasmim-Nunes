@@ -1,0 +1,199 @@
+:root {
+    --primary-color: #c084fc;
+    --background-color: #000;
+    --text-color: #fff;
+    --card-color: rgba(0, 0, 0, 0.7);
+}
+
+body.light {
+    --background-color: #fff;
+    --text-color: #000;
+    --card-color: rgba(255, 255, 255, 0.8);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('artturi-jalli-g5_rxRjvKmg-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: var(--text-color);
+    font-family: 'Poppins', sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10%;
+    background-color: var(--card-color);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+header h1 {
+    color: var(--primary-color);
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+nav a {
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: var(--primary-color);
+}
+
+#toggle-theme {
+    background: none;
+    border: none;
+    color: var(--text-color);
+    font-size: 20px;
+    cursor: pointer;
+}
+
+section {
+    padding: 100px 10% 80px;
+    min-height: 100vh;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.text {
+    max-width: 600px;
+    background-color: var(--card-color);
+    padding: 30px;
+    border-radius: 12px;
+}
+
+.text h2 {
+    font-size: 48px;
+}
+
+.text h2 span {
+    color: var(--primary-color);
+}
+
+.text p {
+    margin: 20px 0;
+    color: #ccc;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.buttons {
+    display: flex;
+    gap: 15px;
+}
+
+button {
+    padding: 10px 25px;
+    background-color: var(--primary-color);
+    border: none;
+    border-radius: 8px;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #a855f7;
+}
+
+.profile-img {
+    background-color: var(--primary-color);
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-img img {
+    width: 100%;
+    height: auto;
+}
+
+.section-title {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: var(--primary-color);
+}
+
+.skills, .projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.skills div, .projects div {
+    background-color: var(--card-color);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.contact-info {
+    text-align: center;
+    font-size: 18px;
+    color: #ccc;
+    background-color: var(--card-color);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: var(--card-color);
+    color: #888;
+}
+
+.text-box {
+    max-width: 800px;
+    margin: auto;
+    text-align: justify;
+    color: #ccc;
+    background-color: var(--card-color);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+@media (max-width: 800px) {
+    .container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .text h2 {
+        font-size: 36px;
+    }
+}
