@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio Iasmim</title>
+    <style>
+        :root {
+            --primary-color: #c084fc;
+            --background-color: #000;
+            --text-color: #fff;
+            --card-color: rgba(0, 0, 0, 0.7);
+        }
+
+        body.light {
+            --background-color: #fff;
+            --text-color: #000;
+            --card-color: rgba(255, 255, 255, 0.8);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-image: url('artturi-jalli-g5_rxRjvKmg-unsplash.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            color: var(--text-color);
+            font-family: 'Poppins', sans-serif;
+            transition: background-color 0.3s, color 0.3s;
+            }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 10%;
+            background-color: var(--card-color);
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+
+        header h1 {
+            color: var(--primary-color);
+        }
+
+        nav {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        nav a {
+            color: var(--text-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: var(--primary-color);
+        }
+
+        #toggle-theme {
+            background: none;
+            border: none;
+            color: var(--text-color);
+            font-size: 20px;
+            cursor: pointer;
+        }
+
+        section {
+            padding: 100px 10% 80px;
+            min-height: 100vh;
+        }
+
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 50px;
+            flex-wrap: wrap;
+        }
+
+        .text {
+            max-width: 600px;
+            background-color: var(--card-color);
+            padding: 30px;
+            border-radius: 12px;
+        }
+
+        .text h2 {
+            font-size: 48px;
+        }
+
+        .text h2 span {
+            color: var(--primary-color);
+        }
+
+        .text p {
+            margin: 20px 0;
+            color: #ccc;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        .buttons {
+            display: flex;
+            gap: 15px;
+        }
+
+        button {
+            padding: 10px 25px;
+            background-color: var(--primary-color);
+            border: none;
+            border-radius: 8px;
+            color: black;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #a855f7;
+        }
+
+        .profile-img {
+            background-color: var(--primary-color);
+            border-radius: 50%;
+            width: 300px;
+            height: 300px;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .profile-img img {
+            width: 100%;
+            height: auto;
+        }
+
+        .section-title {
+            text-align: center;
+            font-size: 36px;
+            margin-bottom: 40px;
+            color: var(--primary-color);
+        }
+
+        .skills, .projects {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .skills div, .projects div {
+            background-color: var(--card-color);
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        .contact-info {
+            text-align: center;
+            font-size: 18px;
+            color: #ccc;
+            background-color: var(--card-color);
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 600px;
+            margin: auto;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: var(--card-color);
+            color: #888;
+        }
+
+        @media (max-width: 800px) {
+            .container {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .text h2 {
+                font-size: 36px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Iasmim</h1>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#sobre">Sobre</a>
+            <a href="#habilidades">Habilidades</a>
+            <a href="#projetos">Projetos</a>
+            <a href="#contato">Contato</a>
+            <button id="toggle-theme">🌙</button>
+        </nav>
+    </header>
+
+    <!-- HOME -->
+    <section class="container" id="home">
+        <div class="text">
+            <h2>Olá, meu nome é <span>Iasmim</span></h2>
+            <p>Sou estudante de <strong>Ciência da Computação</strong> apaixonada por tecnologia, desenvolvimento e inovação. Gosto de criar soluções e transformar ideias em realidade através da programação.</p>
+            <div class="buttons">
+                <button onclick="baixarCV()">Download CV</button>
+                <button onclick="alertaContato()">Contato</button>
+            </div>
+        </div>
+        <div class="profile-img">
+            <img src="perfil.jpeg" alt="Foto de Iasmim">
+        </div>
+    </section>
+
+    <!-- SOBRE -->
+<section id="sobre">
+    <h2 class="section-title">Sobre</h2>
+    <div style="max-width: 800px; margin: auto; text-align: justify; color: #ccc; background-color: var(--card-color); padding: 20px; border-radius: 10px;">
+        <p>Sou uma estudante dedicada do curso de Ciência da Computação, movida pela paixão por tecnologia, inovação e pelo impacto transformador que o desenvolvimento web pode gerar. Desde que iniciei minha trajetória na área, tenho buscado constantemente aprimorar minhas habilidades técnicas e criativas, explorando as diversas possibilidades que o universo da programação oferece.</p>
+        
+        <p>Tenho um interesse especial pelas áreas de front-end e back-end, e me empenho em desenvolver soluções digitais que não apenas funcionem bem, mas que também ofereçam experiências intuitivas, eficientes e visualmente atrativas aos usuários. Acredito na importância de unir design e funcionalidade para construir aplicações completas, com foco na usabilidade e na performance.</p>
+        
+        <p>Além disso, encaro cada novo projeto como uma oportunidade de crescimento e superação de desafios. Estou sempre em busca de novos conhecimentos, seja por meio de cursos, projetos práticos ou colaborações em equipe. Meu objetivo é contribuir com soluções criativas e inovadoras que agreguem valor real a empresas, pessoas e à sociedade como um todo.</p>
+    </div>
+</section>
+
+    <!-- HABILIDADES -->
+    <section id="habilidades">
+        <h2 class="section-title">Habilidades</h2>
+        <div class="skills">
+            <div>HTML</div>
+            <div>CSS</div>
+            <div>JavaScript</div>
+            <div>Python</div>
+            <div>Git & GitHub</div>
+            <div>React (em aprendizado)</div>
+        </div>
+    </section>
+
+    <!-- PROJETOS -->
+    <section id="projetos">
+        <h2 class="section-title">Projetos</h2>
+        <div class="projects">
+            <div>
+                <h3>Projeto 1</h3>
+                <p>Site responsivo para portfólio pessoal.</p>
+            </div>
+            <div>
+                <h3>Projeto 2</h3>
+                <p>Calculadora desenvolvida em JavaScript.</p>
+            </div>
+            <div>
+                <h3>Projeto 3</h3>
+                <p>Automatização de tarefas usando Python.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTATO -->
+    <section id="contato">
+        <h2 class="section-title">Contato</h2>
+        <div class="contact-info">
+            <p>Email: iasmimgabi53@gmail.com</p>
+            <p>Telefone: (19) 98101-3924</p>
+            <p>LinkedIn: https://www.linkedin.com/in/iasmim-gabrielli-nunes/</p>
+            <p>GitHub: github.com/Natomuya</p>
+        </div>
+    </section>
+
+    <footer>
+        &copy; 2025 Iasmim | Todos os direitos reservados.
+    </footer>
+
+    <script>
+        const toggleThemeBtn = document.getElementById('toggle-theme');
+        const body = document.body;
+
+        toggleThemeBtn.addEventListener('click', () => {
+            body.classList.toggle('light');
+            toggleThemeBtn.textContent = body.classList.contains('light') ? '🌞' : '🌙';
+        });
+
+        function baixarCV() {
+            alert("Seu download começará em breve! 🚀");
+            window.open('CVTI.pdf', '_blank');
+        }
+
+        function alertaContato() {
+            alert("Entre em contato: iasmimgabi53@gmail.com 📧");
+        }
+    </script>
+
+</body>
+</html>
