@@ -2,7 +2,7 @@
 
 **Desenvolvedora FullStack**
 
-Me chamo **Iasmim Nunes*, tenho 19 anos. Atualmente, estou cursando **Ciência da Computação na **UNIFAJ**.
+Me chamo **Iasmim Nunes**, tenho 19 anos. Atualmente, estou cursando **Ciência da Computação na **UNIFAJ**.
 
 Sou apaixonada por tecnologia.
 
@@ -51,17 +51,3 @@ Sou apaixonada por tecnologia.
 | SCSS        | 0.97%       |
 | Hack        | 0.13%       |
 
----
-
-## 📣 Redes Sociais
-
-[![YouTube](https://img.shields.io/badge/YouTube-25K-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LarissaKich)
-[![Instagram](https://img.shields.io/badge/@devemdev-Follow-blueviolet?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devemdev)
-[![GitHub Followers](https://img.shields.io/github/followers/larissakich?label=Seguidores&style=for-the-badge)](https://github.com/larissakich)
-
-[![Views](https://komarev.com/ghpvc/?username=larissakich&style=for-the-badge)](https://github.com/larissakich)
-[![GitHub Stars](https://img.shields.io/github/stars/larissakich?style=for-the-badge)](https://github.com/larissakich)
-
----
-
-✨ _"Compartilhar conhecimento é a melhor forma de crescer na tecnologia."_  
