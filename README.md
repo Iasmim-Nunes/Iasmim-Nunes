@@ -29,11 +29,11 @@
 
 ### 🌟 Projetos em Destaque
 
-- 🛒 [**E-commerce com Next.js**](https://github.com/Iasmim-Nunes/ecommerce-nextjs)  
-  Aplicação moderna de e-commerce com carrinho, autenticação e integração com API.
+- 🛒 [**Tech Space Girl**](https://github.com/Tech-Space-Girls/Tech-Space-Girl-Site)  
+  Site que traz motivação e conhecimento sobre mulheres na tecnologia.
 
-- 📅 [**Meu Portifólio**](https://github.com/Iasmim-Nunes/Iasmim-Nunes)  
-  Apresentação sobre Iasmim Nunes.
+- 📅  [**Meu Portifólio**](https://github.com/Iasmim-Nunes/Iasmim-Nunes)  
+  Site de apresentação sobre Iasmim Nunes .
 
 - 🎮 [**Jogo Campo Minado em C++**](https://github.com/Iasmim-Nunes/campo-minado)  
   Projeto de lógica com interface no terminal, desenvolvido para praticar programação estruturada.
