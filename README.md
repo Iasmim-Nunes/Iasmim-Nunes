@@ -2,9 +2,9 @@
 
 **Desenvolvedora FullStack**
 
-Me chamo **Larissa Vitória Kich**, tenho 20 anos e sou natural do **Rio Grande do Sul**. Concluí o ensino médio no IFRS com o curso técnico em informática. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **PUCRS**.
+Me chamo **Iasmim Nunes*, tenho 19 anos. Atualmente, estou cursando **Ciência da Computação na **UNIFAJ**.
 
-Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube [Larissa Kich](https://www.youtube.com/@LarissaKich), onde ensino a criar projetos web, e também no Instagram, com o perfil chamado [Dev em Dev](https://www.instagram.com/devemdev).
+Sou apaixonada por tecnologia.
 
 ---
 
