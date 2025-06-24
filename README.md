@@ -10,8 +10,8 @@ Sou apaixonada por tecnologia.
 
 ## 🚀 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissakich&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iasmimnunes&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iasmimnunes&layout=compact&theme=radical)
 
 - ⭐ **Total de estrelas:** 558  
 - ✅ **Total de Commits:** 76  
