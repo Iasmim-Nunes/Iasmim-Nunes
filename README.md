@@ -33,7 +33,7 @@
   Site que traz motivação e conhecimento sobre mulheres na tecnologia.
 
 - 📅  [**Meu Portifólio**](https://github.com/Iasmim-Nunes/Iasmim-Nunes)  
-  Site de apresentação sobre Iasmim Nunes .
+  Site de apresentação sobre Iasmim Nunes.
 
 - 🎮 [**Jogo Campo Minado em C++**](https://github.com/Iasmim-Nunes/campo-minado)  
   Projeto de lógica com interface no terminal, desenvolvido para praticar programação estruturada.
