@@ -2,16 +2,15 @@
 
 **Desenvolvedora FullStack**
 
-Me chamo **Iasmim Nunes**, tenho 19 anos. Atualmente, estou cursando **Ciência da Computação na **UNIFAJ**.
-
-Sou apaixonada por tecnologia.
+Me chamo **Iasmim Nunes**, tenho 19 anos. Atualmente, estou cursando **Ciência da Computação na UNIFAJ**.  
+Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados e desafios.
 
 ---
 
-## 🚀 Estatísticas
+## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iasmimnunes&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iasmimnunes&layout=compact&theme=radical)
+![Iasmim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=radical)
 
 - ⭐ **Total de estrelas:** 558  
 - ✅ **Total de Commits:** 76  
@@ -43,7 +42,7 @@ Sou apaixonada por tecnologia.
 
 | Tecnologia  | Porcentagem |
 |-------------|-------------|
-| HTML        | 52.26%      |
+| HTML        | 53.26%      |
 | CSS         | 25.17%      |
 | PHP         | 11.39%      |
 | JavaScript  | 6.57%       |
@@ -51,3 +50,13 @@ Sou apaixonada por tecnologia.
 | SCSS        | 0.97%       |
 | Hack        | 0.13%       |
 
+---
+
+## 📣 Conecte-se comigo
+
+[![GitHub](https://img.shields.io/badge/GitHub-Iasmim--Nunes-181717?style=for-the-badge&logo=github)](https://github.com/Iasmim-Nunes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+
+---
+
+✨ _"Tecnologia é a ponte entre ideias e soluções. Vamos construir algo incrível?"_
