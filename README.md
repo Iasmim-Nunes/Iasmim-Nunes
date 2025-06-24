@@ -12,13 +12,6 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados e de
 ![Iasmim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=radical)
 
-- ⭐ **Total de estrelas:** 558  
-- ✅ **Total de Commits:** 76  
-- 🔧 **Total de PRs:** 0  
-- 🐞 **Total de Issues:** 0  
-- 📈 **Contribuição anual:** 0  
-- 🧠 **Nota GitHub:** B  
-
 ---
 
 ## 💻 Linguagens & Tecnologias
