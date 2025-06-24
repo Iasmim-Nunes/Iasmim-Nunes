@@ -42,9 +42,9 @@
 
 ### 📜 Certificações & Conquistas
 
-- ✅ **Certificado de Lógica de Programação – DIO**  
-- ✅ **Curso de Desenvolvimento Web – Udemy**  
-- 🏆 **Hackathon Universitário (2º lugar – Projeto de Sustentabilidade com IoT)**  
+- ✅ **Certificado de Git – DIO**  
+- ✅ **Curso de JavaScript – Udemy**  
+- 🏆 **Summer Code 2023.1 (1º lugar – Projeto Tech Space Girl)**  
 - 🚀 **Desafio #30DiasDeCSS finalizado com sucesso**
 
 ---
