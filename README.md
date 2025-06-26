@@ -42,8 +42,8 @@
 
 ### 📜 Certificações & Conquistas
 
-- ✅ **Certificado de Git – DIO**  
-- ✅ **Curso de JavaScript – Udemy**  
+- ✅ **Certificado HTML - Básico ao Avançado  – Fundação Bradesco**  
+- ✅ **Curso de CSS – Fundação Bradesco**  
 - 🏆 **Summer Code 2023.1 (1º lugar – Projeto Tech Space Girl)**  
 
 ---
