@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 Iasmim Nunes</h1>
 
 <p align="center">
-  <strong>Desenvolvedora FullStack • Estudante de Ciência da Computação</strong>
+  <strong>• Estudante de Ciência da Computação</strong>
 </p>
 
 <p align="center">
