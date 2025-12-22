@@ -69,9 +69,3 @@
 </p>
 
 ---
-
-### ✨ Frase que me inspira
-
-> "Tecnologia é a ponte entre ideias e soluções. Vamos construir algo incrível?"
-
----
