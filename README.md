@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Me chamo Iasmim Nunes, tenho 19 anos e sou apaixonada por tecnologia!<br>
+  Me chamo Iasmim Nunes, tenho 20 anos e sou apaixonada por tecnologia!<br>
   Atualmente, curso Ciência da Computação na <strong>UNIFAJ</strong> e estou sempre em busca de novos aprendizados e desafios.<br>
   Gosto de transformar ideias em soluções criativas e funcionais por meio do código.
 </p>
