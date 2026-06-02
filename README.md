@@ -16,17 +16,16 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Iasmim Nunes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" 
+    src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" 
     alt="GitHub Stats" 
     height="180" 
   />
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
     alt="Top Languages" 
     height="180" 
   />
 </p>
-
 ---
 
 ### 🌟 Projetos em Destaque
