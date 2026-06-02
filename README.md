@@ -14,25 +14,16 @@
 
 ### 📊 Estatísticas do GitHub
 
-<!-- Widgets dinâmicos (podem falhar ocasionalmente) -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&cache_seconds=86400" 
-    alt="GitHub Stats" 
-    height="180" 
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&cache_seconds=86400" 
-    alt="Top Languages" 
-    height="180" 
-  />
-</p>
-
-<!-- Badges de backup (sempre funcionam) -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Iasmim-Nunes?label=Seguidores&style=flat-square&color=7aa2f7&labelColor=1a1b26" />
-  <img src="https://img.shields.io/github/stars/Iasmim-Nunes?label=Estrelas&style=flat-square&color=bb9af7&labelColor=1a1b26" />
-  <img src
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=tokyonight&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
     
 ---
 
