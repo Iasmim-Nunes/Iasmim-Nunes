@@ -9,21 +9,6 @@
   Atualmente, curso Ciência da Computação na <strong>UNIFAJ</strong> e estou sempre em busca de novos aprendizados e desafios.<br>
   Gosto de transformar ideias em soluções criativas e funcionais por meio do código.
 </p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=tokyonight&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
     
 ---
 
