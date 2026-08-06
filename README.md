@@ -1,37 +1,37 @@
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=Iasmim%20Nunes&fontSize=55&fontColor=ffffff&animation=fadeIn"/&gt;
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=Iasmim%20Nunes&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Hi, I'm Iasmim Nunes
 
 ### 💻 Computer Science Student | Future IT Professional
 
-&lt;img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Software+Development;IT+Support;Data+Analysis;Cybersecurity;Always+learning+new+technologies"/&gt;
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Software+Development;IT+Support;Data+Analysis;Cybersecurity;Always+learning+new+technologies"/>
 
-&lt;br&gt;
+<br>
 
-&lt;a href="https://github.com/Iasmim-Nunes"&gt;
-&lt;img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/&gt;
-&lt;/a&gt;
+<a href="https://github.com/Iasmim-Nunes">
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-&lt;a href="https://www.linkedin.com/in/iasmim-gabrielli-nunes/"&gt;
-&lt;img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;
-&lt;/a&gt;
+<a href="https://www.linkedin.com/in/iasmim-gabrielli-nunes/">
+<img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-&lt;a href="mailto:iasmimgabi53@gmail.com"&gt;
-&lt;img src="https://img.shields.io/badge/Email-DA70D6?style=for-the-badge&logo=gmail&logoColor=white"/&gt;
-&lt;/a&gt;
+<a href="mailto:iasmimgabi53@gmail.com">
+<img src="https://img.shields.io/badge/Email-DA70D6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-&lt;/div&gt;
+</div>
 
 ---
 
 # 👩‍💻 About Me
 
-&lt;table&gt;
-&lt;tr&gt;
+<table>
+<tr>
 
-&lt;td width="60%"&gt;
+<td width="60%">
 
 ### Hello! 👋
 
@@ -74,60 +74,60 @@ I'm currently looking for internship opportunities where I can contribute, learn
 
 ✔ Continuous Learning
 
-&lt;/td&gt;
+</td>
 
-&lt;td width="40%" align="center"&gt;
+<td width="40%" align="center">
 
-&lt;img width="280" src="https://raw.githubusercontent.com/4ef28d36772053512f39ca3d8bbd073f921ca6b3.gif"&gt;
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-&lt;/td&gt;
+</td>
 
-&lt;/tr&gt;
-&lt;/table&gt;
+</tr>
+</table>
 
 ---
 
 # 💻 Tech Stack
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ### Languages
 
-&lt;img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/&gt;
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
 
-&lt;br&gt;&lt;br&gt;
+<br><br>
 
 ### Tools
 
-&lt;img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/&gt;
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
 
-&lt;br&gt;&lt;br&gt;
+<br><br>
 
 ### Currently Learning
 
-&lt;img src="https://skillicons.dev/icons?i=java"/&gt;
+<img src="https://skillicons.dev/icons?i=java"/>
 
-&lt;/div&gt;
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=radical&hide_border=true"/&gt;
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=radical&hide_border=true"/>
 
-&lt;img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=radical&hide_border=true"/&gt;
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=radical&hide_border=true"/>
 
-&lt;/div&gt;
+</div>
 
-&lt;br&gt;
+<br>
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Iasmim-Nunes&theme=radical&hide_border=true"/&gt;
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Iasmim-Nunes&theme=radical&hide_border=true"/>
 
-&lt;/div&gt;
+</div>
 
 ---
 
@@ -156,32 +156,32 @@ I'm currently looking for internship opportunities where I can contribute, learn
 
 # 📫 Connect with Me
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;a href="https://github.com/Iasmim-Nunes"&gt;
-&lt;img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github"/&gt;
-&lt;/a&gt;
+<a href="https://github.com/Iasmim-Nunes">
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github"/>
+</a>
 
-&lt;a href="https://www.linkedin.com/in/iasmim-gabrielli-nunes/"&gt;
-&lt;img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin"/&gt;
-&lt;/a&gt;
+<a href="https://www.linkedin.com/in/iasmim-gabrielli-nunes/">
+<img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin"/>
+</a>
 
-&lt;a href="mailto:iasmimgabi53@gmail.com"&gt;
-&lt;img src="https://img.shields.io/badge/Email-DA70D6?style=for-the-badge&logo=gmail&logoColor=white"/&gt;
-&lt;/a&gt;
+<a href="mailto:iasmimgabi53@gmail.com">
+<img src="https://img.shields.io/badge/Email-DA70D6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
 *"Technology is about solving real problems and creating meaningful solutions."*
 
-&lt;img src="https://komarev.com/ghpvc/?username=Iasmim-Nunes&style=for-the-badge&color=FF69B4"/&gt;
+<img src="https://komarev.com/ghpvc/?username=Iasmim-Nunes&style=for-the-badge&color=FF69B4"/>
 
-&lt;/div&gt;
+</div>
 
-&lt;img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/&gt;
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
