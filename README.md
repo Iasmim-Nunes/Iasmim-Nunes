@@ -89,15 +89,15 @@ My areas of interest include:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
 
 ### Learning
 
-<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://skillicons.dev/icons?i=java"/>
 
 </div>
 
@@ -120,16 +120,6 @@ My areas of interest include:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iasmim-Nunes&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iasmim-Nunes&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
