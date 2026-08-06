@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL@gmail.com">
+<a href="mailto:iasmimgabi53@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -56,7 +56,6 @@ I'm currently looking for internship opportunities where I can contribute, learn
 - Java
 - Python
 - SQL
-- Linux
 - Computer Networks
 - Data Structures
 - Cybersecurity Fundamentals
@@ -94,19 +93,19 @@ I'm currently looking for internship opportunities where I can contribute, learn
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
 
 <br><br>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
 
 <br><br>
 
 ### Currently Learning
 
-<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://skillicons.dev/icons?i=java"/>
 
 </div>
 
@@ -127,52 +126,6 @@ I'm currently looking for internship opportunities where I can contribute, learn
 <div align="center">
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Iasmim-Nunes&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iasmim-Nunes&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Iasmim-Nunes&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7"/>
-
-</div>
-
----
-
-# 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Tech-Space-Girls/Tech-Space-Girl-Site">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-Space-Girls&repo=Tech-Space-Girl-Site&theme=tokyonight"/>
-
-</a>
-
-<a href="https://github.com/Iasmim-Nunes/campo-minado">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmim-Nunes&repo=campo-minado&theme=tokyonight"/>
-
-</a>
-
-<a href="https://github.com/Iasmim-Nunes/Iasmim-Nunes">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Iasmim-Nunes&repo=Iasmim-Nunes&theme=tokyonight"/>
-
-</a>
 
 </div>
 
