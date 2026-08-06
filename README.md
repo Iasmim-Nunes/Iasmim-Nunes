@@ -78,7 +78,7 @@ I'm currently looking for internship opportunities where I can contribute, learn
 
 <td width="40%" align="center">
 
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img src="https://i.imgur.com/UJi9bZp.gif" width="240em" height="240em">
 
 </td>
 
@@ -115,7 +115,9 @@ I'm currently looking for internship opportunities where I can contribute, learn
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=radical&hide_border=true"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<br><br>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=radical&hide_border=true"/>
 
