@@ -1,24 +1,47 @@
-<div align="center">
+&lt;div align="center"&gt;
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=F9A8D4,D8B4FE,A78BFA&text=Iasmim%20Nunes&fontColor=ffffff&fontSize=52"/>
+&lt;img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=Iasmim%20Nunes&fontSize=55&fontColor=ffffff&animation=fadeIn"/&gt;
 
-🌸 Hi, I'm Iasmim!
+# 👋 Hi, I'm Iasmim Nunes
 
-💜 Computer Science Student • Technology Enthusiast
+### 💻 Computer Science Student | Future IT Professional
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Software+Development;IT+Support;Data+Analysis;Cybersecurity;Always+learning+%F0%9F%92%9C"/>
+&lt;img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Software+Development;IT+Support;Data+Analysis;Cybersecurity;Always+learning+new+technologies"/&gt;
 
-<a href="https://www.linkedin.com/in/iasmim-gabrielli-nunes/"><img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://github.com/Iasmim-Nunes"><img src="https://img.shields.io/badge/GitHub-D8B4FE?style=for-the-badge&logo=github&logoColor=white"/></a><a href="mailto:iasmimgabi53@gmail.com"><img src="https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&lt;br&gt;
 
-</div>
+&lt;a href="https://github.com/Iasmim-Nunes"&gt;
+&lt;img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/&gt;
+&lt;/a&gt;
 
-🌷 About Me
+&lt;a href="https://www.linkedin.com/in/iasmim-gabrielli-nunes/"&gt;
+&lt;img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;
+&lt;/a&gt;
 
-Hi! I'm Iasmim, a Computer Science student at UNIFAJ from Brazil 🇧🇷.
+&lt;a href="mailto:iasmimgabi53@gmail.com"&gt;
+&lt;img src="https://img.shields.io/badge/Email-DA70D6?style=for-the-badge&logo=gmail&logoColor=white"/&gt;
+&lt;/a&gt;
 
-💜 I love learning new technologies, solving problems and creating useful solutions through programming.
+&lt;/div&gt;
 
-🎯 I'm looking for internship opportunities in:
+---
+
+# 👩‍💻 About Me
+
+&lt;table&gt;
+&lt;tr&gt;
+
+&lt;td width="60%"&gt;
+
+### Hello! 👋
+
+I'm **Iasmim Nunes**, a **Computer Science student** at **UNIFAJ**.
+
+I'm passionate about technology and constantly improving my skills through academic projects and personal learning.
+
+I'm currently looking for internship opportunities where I can contribute, learn from experienced professionals, and grow in the IT field.
+
+### 🎯 Areas of Interest
 
 💻 Software Development
 
@@ -28,81 +51,137 @@ Hi! I'm Iasmim, a Computer Science student at UNIFAJ from Brazil 🇧🇷.
 
 🔐 Cybersecurity
 
-🌱 Currently Learning
+### 🌱 Currently Learning
 
-☕ Java
+- Java
+- Python
+- SQL
+- Computer Networks
+- Data Structures
+- Cybersecurity Fundamentals
 
-🐍 Python
+### 🚀 Soft Skills
 
-🗄️ SQL
+✔ Problem Solving
 
-🌐 Computer Networks
+✔ Teamwork
 
-📚 Data Structures
+✔ Fast Learning
 
-🔒 Cybersecurity Fundamentals
+✔ Communication
 
-✨ Building my future, one line of code at a time.
+✔ Organization
 
-💻 Tech Stack
+✔ Continuous Learning
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,mysql,git,github,vscode"/>
-</p>
+&lt;/td&gt;
 
-📊 GitHub Stats
+&lt;td width="40%" align="center"&gt;
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=rose_pine&hide_border=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=rose_pine&hide_border=true"/>
-</p>
+&lt;img width="280" src="https://raw.githubusercontent.com/4ef28d36772053512f39ca3d8bbd073f921ca6b3.gif"&gt;
 
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=Iasmim-Nunes&theme=rose-pine&hide_border=true"/>
-</p>
+&lt;/td&gt;
 
-🌟 Featured Projects
+&lt;/tr&gt;
+&lt;/table&gt;
 
-🚀 Tech Space Girl – Inspiring women in technology.
+---
 
-🎮 Campo Minado em C++ – Logic and structured programming.
+# 💻 Tech Stack
 
-💼 Personal Portfolio – My personal website and projects.
+&lt;div align="center"&gt;
 
-🏆 Certifications
+### Languages
 
-🥇 Summer Code 2023.1 — 1st Place
+&lt;img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+### Tools
+
+&lt;img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+### Currently Learning
+
+&lt;img src="https://skillicons.dev/icons?i=java"/&gt;
+
+&lt;/div&gt;
+
+---
+
+# 📊 GitHub Analytics
+
+&lt;div align="center"&gt;
+
+&lt;img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=radical&hide_border=true"/&gt;
+
+&lt;img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=radical&hide_border=true"/&gt;
+
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div align="center"&gt;
+
+&lt;img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Iasmim-Nunes&theme=radical&hide_border=true"/&gt;
+
+&lt;/div&gt;
+
+---
+
+# 📚 Certifications
+
+🥇 **Summer Code 2023.1** — 1st Place
 
 📜 HTML — Fundação Bradesco
 
 📜 CSS — Fundação Bradesco
 
-🎯 Goals
+---
 
-🌸 Grow as a software developer
+# 🎯 2026 Goals
 
-💼 Land my first IT internship
+- 🎓 Continue growing in Computer Science
+- 💻 Get my first IT internship
+- ☕ Improve my Java skills
+- 🌱 Learn Spring Boot
+- 📊 Build Data Analysis projects
+- 🔐 Study Cybersecurity
+- 🌐 Contribute to Open Source
+- 🚀 Keep improving every day
 
-☕ Improve Java skills
+---
 
-📊 Build Data Analysis projects
+# 📫 Connect with Me
 
-🔐 Learn more about Cybersecurity
+&lt;div align="center"&gt;
 
-📫 Connect with Me
+&lt;a href="https://github.com/Iasmim-Nunes"&gt;
+&lt;img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github"/&gt;
+&lt;/a&gt;
 
-<p align="center">
-<a href="https://github.com/Iasmim-Nunes"><img src="https://img.shields.io/badge/GitHub-D8B4FE?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/iasmim-gabrielli-nunes/"><img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:iasmimgabi53@gmail.com"><img src="https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+&lt;a href="https://www.linkedin.com/in/iasmim-gabrielli-nunes/"&gt;
+&lt;img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin"/&gt;
+&lt;/a&gt;
 
-<div align="center">
+&lt;a href="mailto:iasmimgabi53@gmail.com"&gt;
+&lt;img src="https://img.shields.io/badge/Email-DA70D6?style=for-the-badge&logo=gmail&logoColor=white"/&gt;
+&lt;/a&gt;
 
-💜 Thanks for visiting!
+&lt;/div&gt;
 
-<img src="https://komarev.com/ghpvc/?username=Iasmim-Nunes&style=for-the-badge&color=C084FC"/>
+---
 
-</div>
+&lt;div align="center"&gt;
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=F9A8D4,D8B4FE,A78BFA"/>
+### ⭐ Thanks for visiting my profile!
+
+*"Technology is about solving real problems and creating meaningful solutions."*
+
+&lt;img src="https://komarev.com/ghpvc/?username=Iasmim-Nunes&style=for-the-badge&color=FF69B4"/&gt;
+
+&lt;/div&gt;
+
+&lt;img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/&gt;
