@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=Iasmim%20Nunes&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://raw.githubusercontent.com/Iasmim-Nunes/Iasmim-Nunes/main/Iasmim%20Nunes.gif"/>
 
 # 👋 Hi, I'm Iasmim Nunes
 
