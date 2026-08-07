@@ -115,18 +115,6 @@ I'm currently looking for internship opportunities where I can contribute, learn
 
 <div align="center">
 
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=Iasmim-Nunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<br><br>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iasmim-Nunes&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Iasmim-Nunes&theme=radical&hide_border=true"/>
 
 </div>
