@@ -115,7 +115,13 @@ I'm currently looking for internship opportunities where I can contribute, learn
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Iasmim-Nunes&theme=radical&hide_border=true"/>
+<br><br>
+
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iasmim-Nunes&theme=radical"/>
+&nbsp;
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iasmim-Nunes&theme=radical"/>
+
+<br><br>
 
 </div>
 
