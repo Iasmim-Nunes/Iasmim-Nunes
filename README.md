@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Iasmim-Nunes/Iasmim-Nunes/main/Iasmim%20Nunes.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/Iasmim-Nunes/Iasmim-Nunes/main/Untitled%20design.gif"/>
 
 # 👋 Hi, I'm Iasmim Nunes
 
