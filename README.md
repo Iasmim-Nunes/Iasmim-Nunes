@@ -1,183 +1,102 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Iasmim-Nunes/Iasmim-Nunes/main/Untitled%20design.gif"/>
+<a href="https://www.youtube.com/@IasTechbits">
+  <img width="100%" src="banner.png" alt="Banner do canal IAS TECH: programação, dicas e projetos"/>
+</a>
 
-# 👋 Hi, I'm Iasmim Nunes
+# Iasmim Nunes
 
-### 💻 Computer Science Student | Future IT Professional
+### Estudante de Ciência da Computação | Desenvolvimento de Software
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Software+Development;IT+Support;Data+Analysis;Cybersecurity;Always+learning+new+technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Desenvolvimento+de+Software;Suporte+de+TI;An%C3%A1lise+de+Dados;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Sempre+aprendendo+novas+tecnologias" alt="Áreas de interesse"/>
 
 <br>
 
-<a href="https://github.com/Iasmim-Nunes">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/iasmim-gabrielli-nunes/">
-<img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:iasmimgabi53@gmail.com">
-<img src="https://img.shields.io/badge/Email-DA70D6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/iasmim-gabrielli-nunes/"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:iasmimgabi53@gmail.com"><img src="https://img.shields.io/badge/E--mail-DA70D6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+<a href="https://www.youtube.com/@IasTechbits"><img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## Sobre mim
 
-<table>
-<tr>
+Sou estudante de **Ciência da Computação na UNIFAJ** e busco minha **primeira oportunidade de estágio em TI**.
 
-<td width="60%">
+Gosto de aprender na prática, com projetos acadêmicos e pessoais, e tenho interesse especial em desenvolvimento de software, dados e segurança da informação. No canal **[IAS TECH](https://www.youtube.com/@IasTechbits)**, compartilho o que estou aprendendo sobre programação, ferramentas de IA e carreira em tecnologia, explicado de forma simples para quem está começando.
 
-### Hello! 👋
+**Áreas de interesse**
+- Desenvolvimento de software
+- Suporte de TI
+- Análise de dados
+- Segurança da informação
 
-I'm **Iasmim Nunes**, a **Computer Science student** at **UNIFAJ**.
-
-I'm passionate about technology and constantly improving my skills through academic projects and personal learning.
-
-I'm currently looking for internship opportunities where I can contribute, learn from experienced professionals, and grow in the IT field.
-
-### 🎯 Areas of Interest
-
-💻 Software Development
-
-🛠️ IT Support
-
-📊 Data Analysis
-
-🔐 Cybersecurity
-
-### 🌱 Currently Learning
-
-- Java
-- Python
-- SQL
-- Computer Networks
-- Data Structures
-- Cybersecurity Fundamentals
-
-### 🚀 Soft Skills
-
-✔ Problem Solving
-
-✔ Teamwork
-
-✔ Fast Learning
-
-✔ Communication
-
-✔ Organization
-
-✔ Continuous Learning
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://i.imgur.com/UJi9bZp.gif" width="240em" height="240em">
-
-</td>
-
-</tr>
-</table>
+**Competências comportamentais:** resolução de problemas, trabalho em equipe, aprendizado rápido, comunicação e organização.
 
 ---
 
-# 💻 Tech Stack
+## Tecnologias
 
 <div align="center">
 
-### Languages
+**Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" alt="Python, Java, C++, JavaScript, HTML, CSS"/>
 
-<br><br>
+**Ferramentas e banco de dados**
 
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
-
-<br><br>
-
-### Currently Learning
-
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" alt="Git, GitHub, VS Code, MySQL"/>
 
 </div>
 
+**Estudando atualmente:** Java (com Spring Boot como próximo passo), Python, SQL, redes de computadores, estruturas de dados e fundamentos de segurança da informação.
+
 ---
 
-# 📊 GitHub Analytics
+## Estatísticas
 
 <div align="center">
 
-<br><br>
-
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iasmim-Nunes&theme=radical"/>
-&nbsp;
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iasmim-Nunes&theme=radical"/>
-
-<br><br>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iasmim-Nunes&theme=radical" alt="Estatísticas do GitHub"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iasmim-Nunes&theme=radical" alt="Linguagens mais usadas"/>
 
 </div>
 
 ---
 
-# 📚 Certifications
+## Conquistas e certificações
 
-🥇 **Summer Code 2023.1** — 1st Place
-
-📜 HTML — Fundação Bradesco
-
-📜 CSS — Fundação Bradesco
+- 🥇 **Summer Code 2023.1**: 1º lugar
+- 📜 **HTML**: Fundação Bradesco
+- 📜 **CSS**: Fundação Bradesco
 
 ---
 
-# 🎯 2026 Goals
+<details>
+<summary><b>🇺🇸 English version</b></summary>
 
-- 🎓 Continue growing in Computer Science
-- 💻 Get my first IT internship
-- ☕ Improve my Java skills
-- 🌱 Learn Spring Boot
-- 📊 Build Data Analysis projects
-- 🔐 Study Cybersecurity
-- 🌐 Contribute to Open Source
-- 🚀 Keep improving every day
+<br>
 
----
+**Iasmim Nunes**: Computer Science student at **UNIFAJ**, looking for my **first IT internship**.
 
-# 📫 Connect with Me
+I learn by building academic and personal projects, with a focus on software development, data and information security. On my YouTube channel, **[IAS TECH](https://www.youtube.com/@IasTechbits)**, I share what I'm learning about programming, AI tools and tech careers, explained simply for beginners.
 
-<div align="center">
+- **Interests:** software development, IT support, data analysis, information security
+- **Languages:** Python, Java, C++, JavaScript, HTML, CSS
+- **Tools:** Git, GitHub, VS Code, MySQL
+- **Currently learning:** Java and Spring Boot, SQL, computer networks, data structures, security fundamentals
+- **Achievements:** 1st place at Summer Code 2023.1; HTML and CSS certificates (Fundação Bradesco)
+- **2026 goals:** land my first IT internship, build data analysis projects, contribute to open source
 
-<a href="https://github.com/Iasmim-Nunes">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/iasmim-gabrielli-nunes/">
-<img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:iasmimgabi53@gmail.com">
-<img src="https://img.shields.io/badge/Email-DA70D6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+</details>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+**Obrigada pela visita!** 
 
-*"Technology is about solving real problems and creating meaningful solutions."*
-
-<img src="https://komarev.com/ghpvc/?username=Iasmim-Nunes&style=for-the-badge&color=FF69B4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" alt=""/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
